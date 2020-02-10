@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArtistItem component renders ArtistItem 1`] = `
+<Link
+  to="/albums/1/name"
+>
+  <li
+    className="artistItem"
+  >
+    <h1>
+      name
+    </h1>
+    <p>
+      1
+    </p>
+  </li>
+</Link>
+`;
